@@ -129,5 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Temp project files
+# Database development project files
 db/app.db
