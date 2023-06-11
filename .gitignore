@@ -133,3 +133,6 @@ dist
 # Database development project files
 db/app.db
 db/test.db
+
+# Build JS files
+build
